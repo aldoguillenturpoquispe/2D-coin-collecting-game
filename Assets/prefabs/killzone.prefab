@@ -152,3 +152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa6ee92de0764545ae4fd58adcf4eb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Zomuerte
+  puntoDeInicio: {fileID: 0}
+  pantallaNegra: {fileID: 0}
+  velocidadParpadeo: 2

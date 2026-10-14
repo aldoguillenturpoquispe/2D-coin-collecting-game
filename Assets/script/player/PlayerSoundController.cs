@@ -8,7 +8,7 @@ public class PlayerSoundController : MonoBehaviour
     public AudioClip sonidoFondo;
     public AudioClip sonidoMoneda;
     public AudioClip sonidoCaida;
- void Start()
+    void Start()
     {
         playFondo();
     }
