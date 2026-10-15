@@ -3456,6 +3456,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: player
       objectReference: {fileID: 0}
+    - target: {fileID: 8489196797286409929, guid: d16c1fa637b677640b2b92b0bd98ad3b, type: 3}
+      propertyPath: FuerzaSalto
+      value: 6.5
+      objectReference: {fileID: 0}
     - target: {fileID: 8919135468594736624, guid: d16c1fa637b677640b2b92b0bd98ad3b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.402
@@ -3592,6 +3596,10 @@ PrefabInstance:
     - target: {fileID: 1020624700054029227, guid: fc6c06e7abc31754b8bf3a3acea6a2f2, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104197532102347799, guid: fc6c06e7abc31754b8bf3a3acea6a2f2, type: 3}
+      propertyPath: inicioTiempo
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
