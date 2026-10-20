@@ -13,12 +13,20 @@ PrefabInstance:
       value: Pinchos (4) Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2552597582387631027, guid: 189a1de492d57c9458b2cc2f5851132f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.82694036
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552597582387631027, guid: 189a1de492d57c9458b2cc2f5851132f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6924742
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552597582387631027, guid: 189a1de492d57c9458b2cc2f5851132f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.985
+      value: 10.443
       objectReference: {fileID: 0}
     - target: {fileID: 2552597582387631027, guid: 189a1de492d57c9458b2cc2f5851132f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.972
+      value: 2.1372
       objectReference: {fileID: 0}
     - target: {fileID: 2552597582387631027, guid: 189a1de492d57c9458b2cc2f5851132f, type: 3}
       propertyPath: m_LocalPosition.z
