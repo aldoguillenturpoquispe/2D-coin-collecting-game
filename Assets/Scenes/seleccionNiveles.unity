@@ -751,6 +751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 647117ef8b3b2b740bfb1be74fa5232b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MenuSystem
+  objetoMenuPausa: {fileID: 0}
 --- !u!1 &1055505209
 GameObject:
   m_ObjectHideFlags: 0
@@ -939,7 +940,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1050487209}
         m_TargetAssemblyTypeName: MenuSystem, Assembly-CSharp
-        m_MethodName: SalirNiveles
+        m_MethodName: VolverMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
